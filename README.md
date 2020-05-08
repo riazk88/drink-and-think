@@ -36,7 +36,7 @@ Deployed Site
 (https://riazk88.github.io/drink-and-think/)
 
 Github Repo
-(https://riazk88.com/mattkohl82/drink-and-think)
+(https://github.com/riazk88/drink-and-think)
 
 
 ![index](./assets/screenshots/mainpage.jpg)
